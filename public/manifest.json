@@ -1,0 +1,23 @@
+{
+  "name": "FleetMaster - ניהול צי רכב",
+  "short_name": "FleetMaster",
+  "description": "מערכת מתקדמת לניהול צי רכב, נהגים וטיפולים",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/fleet/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/fleet/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
